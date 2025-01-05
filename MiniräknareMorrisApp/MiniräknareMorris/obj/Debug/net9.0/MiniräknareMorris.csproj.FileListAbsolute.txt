@@ -1,0 +1,15 @@
+C:\Users\vurob\Git-Grupp\projekt1\MiniräknareMorrisApp\MiniräknareMorris\bin\Debug\net9.0\MiniräknareMorris.exe
+C:\Users\vurob\Git-Grupp\projekt1\MiniräknareMorrisApp\MiniräknareMorris\bin\Debug\net9.0\MiniräknareMorris.deps.json
+C:\Users\vurob\Git-Grupp\projekt1\MiniräknareMorrisApp\MiniräknareMorris\bin\Debug\net9.0\MiniräknareMorris.runtimeconfig.json
+C:\Users\vurob\Git-Grupp\projekt1\MiniräknareMorrisApp\MiniräknareMorris\bin\Debug\net9.0\MiniräknareMorris.dll
+C:\Users\vurob\Git-Grupp\projekt1\MiniräknareMorrisApp\MiniräknareMorris\bin\Debug\net9.0\MiniräknareMorris.pdb
+C:\Users\vurob\Git-Grupp\projekt1\MiniräknareMorrisApp\MiniräknareMorris\obj\Debug\net9.0\MiniräknareMorris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vurob\Git-Grupp\projekt1\MiniräknareMorrisApp\MiniräknareMorris\obj\Debug\net9.0\MiniräknareMorris.AssemblyInfoInputs.cache
+C:\Users\vurob\Git-Grupp\projekt1\MiniräknareMorrisApp\MiniräknareMorris\obj\Debug\net9.0\MiniräknareMorris.AssemblyInfo.cs
+C:\Users\vurob\Git-Grupp\projekt1\MiniräknareMorrisApp\MiniräknareMorris\obj\Debug\net9.0\MiniräknareMorris.csproj.CoreCompileInputs.cache
+C:\Users\vurob\Git-Grupp\projekt1\MiniräknareMorrisApp\MiniräknareMorris\obj\Debug\net9.0\MiniräknareMorris.sourcelink.json
+C:\Users\vurob\Git-Grupp\projekt1\MiniräknareMorrisApp\MiniräknareMorris\obj\Debug\net9.0\MiniräknareMorris.dll
+C:\Users\vurob\Git-Grupp\projekt1\MiniräknareMorrisApp\MiniräknareMorris\obj\Debug\net9.0\refint\MiniräknareMorris.dll
+C:\Users\vurob\Git-Grupp\projekt1\MiniräknareMorrisApp\MiniräknareMorris\obj\Debug\net9.0\MiniräknareMorris.pdb
+C:\Users\vurob\Git-Grupp\projekt1\MiniräknareMorrisApp\MiniräknareMorris\obj\Debug\net9.0\MiniräknareMorris.genruntimeconfig.cache
+C:\Users\vurob\Git-Grupp\projekt1\MiniräknareMorrisApp\MiniräknareMorris\obj\Debug\net9.0\ref\MiniräknareMorris.dll
