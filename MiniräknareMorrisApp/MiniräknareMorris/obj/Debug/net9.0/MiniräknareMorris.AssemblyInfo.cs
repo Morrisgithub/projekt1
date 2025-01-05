@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniräknareMorris")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a73a6e5b7a2eb51f57169a7810c5c4971fd5160")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31266caa17dc259d44807edbdfcefb70dfe5d245")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniräknareMorris")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniräknareMorris")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

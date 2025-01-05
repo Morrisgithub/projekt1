@@ -8,7 +8,7 @@ namespace MiniräknareMorris
         {
             Calculator add = new Calculator();
             add.Sum(1,2);
-            
+            //Summan
             
             Console.ReadLine();
         }
