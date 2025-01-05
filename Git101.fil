@@ -1,0 +1,60 @@
+# 1. Skapa en ny mapp och gå in i den
+mkdir Git-Test
+cd Git-Test
+
+# 2. Skapa en ny fil
+touch TestText.fil
+
+# 3. Initiera ett nytt Git-repository
+git init
+
+# 4. Lägg till filen i staging-området
+git add TestText.fil
+
+# 5. Gör en första commit
+git commit -m "Initial commit with TestText.fil"
+
+# 6. Skapa en repository på GitHub (manuellt på GitHub-sidan)
+#    Kopiera HTTPS-URL för repositoryt, t.ex. https://github.com/username/Git-Test.git
+
+# 7. Koppla ditt lokala Git-repository till GitHub-repositoryt
+git remote add origin https://github.com/username/Git-Test.git
+
+# 8. Pusha ändringarna till GitHub (första gången)
+git push -u origin main
+
+# --- Nu är din grundstruktur skapad! ---
+
+# 9. Skapa och byt till en ny branch för att göra ändringar
+git checkout -b edit-TestText
+
+# 10. Gör ändringar i TestText.fil (manuellt med en textredigerare eller VS Code)
+#     t.ex. echo "Nya ändringar" >> TestText.fil
+
+# 11. Lägg till ändringarna i staging-området
+git add TestText.fil
+
+# 12. Gör en commit med ändringen
+git commit -m "Updated content in TestText.fil"
+
+# 13. Pusha branchen till GitHub
+git push -u origin edit-TestText
+
+# --- När ändringen är klar och redo att slås ihop med main ---
+
+# 14. Byt tillbaka till main
+git checkout main
+
+# 15. Slå ihop ändringarna från branchen till main
+git merge edit-TestText
+
+# 16. Pusha den uppdaterade main-branchen till GitHub
+git push
+
+# --- Om du är klar med branchen kan du radera den ---
+
+# 17. Radera branchen lokalt
+git branch -d edit-TestText
+
+# 18. Radera branchen från GitHub
+git push origin --delete edit-TestText
